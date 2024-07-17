@@ -1,1 +1,1 @@
-data structures and algorithms
+data structures and algorithms, implemented in python
